@@ -3,8 +3,4 @@ public class firstprgrm{
 		 System.out.println("Hello World");
 		 
 	 }
-	
-	
-	
-	
 }
